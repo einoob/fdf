@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   control_management.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: elindber <elindber@student.42.fr>          +#+  +:+       +#+        */
+/*   By: elindber <elindber@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/27 12:06:14 by elindber          #+#    #+#             */
-/*   Updated: 2020/03/06 16:58:55 by elindber         ###   ########.fr       */
+/*   Updated: 2020/10/01 15:46:19 by elindber         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
